@@ -9,8 +9,11 @@ function scuberGreetingForFeet(input) {
   else if (input=>2500) {
     return ('No can do.');
   }
-  
-}
+ 
+  function ternaryCheckCity(place) {
+    
+  }
 
-function ternaryCheckCity(place)
+
+
 
