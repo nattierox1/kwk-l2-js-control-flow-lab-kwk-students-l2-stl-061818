@@ -10,8 +10,8 @@ function scuberGreetingForFeet(input) {
     return ('No can do.');
   }
  
-  function ternaryCheckCity(place) {
-    
+  function ternaryCheckCity('NYC') {
+    return
   }
 
 
