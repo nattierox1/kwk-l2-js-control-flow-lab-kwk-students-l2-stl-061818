@@ -18,7 +18,7 @@ function scuberGreetingForFeet(input) {
     switch (response) {
       case "generous" :
         return "Thank you so much." ;
-        case 
+        case "not as generous"
         
     }
   }
