@@ -3,10 +3,6 @@ function scuberGreetingForFeet(input) {
   if (input<=400) {
     return ('This one is on me!')
   }
-  else {}
+  else {return}
 }
 
-ternaryCheckCity();
-switchCharmCity();
-switchOnCharmFromTip();
-return 
