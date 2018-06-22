@@ -14,7 +14,7 @@ function scuberGreetingForFeet(input) {
     return (place ==='NYC' ? "Ok, sounds good." : 'No go.');
   }
   
-  function switchOnCharmFromTip() {
+  function switchOnCharmFromTip(response) {
     switch (response) {
       
     }
